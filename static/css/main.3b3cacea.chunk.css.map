@@ -1,0 +1,1 @@
+{"version":3,"sources":["contentarea.css","style.css"],"names":[],"mappings":"AAAA,aACI,WAAkB,CAClB,gBACJ,CCHA,sBACI,4BACJ","file":"main.3b3cacea.chunk.css","sourcesContent":[".contentarea {\r\n    width: calc(100vw);\r\n    max-width: 1200px;\r\n}\r\n","#social_links > a:hover {\r\n    background-color: var(--grey);\r\n}\r\n"]}
