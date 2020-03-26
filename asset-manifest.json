@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.58a3d2bd.chunk.css",
-    "main.js": "/portfolio/static/js/main.566463fe.chunk.js",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.3bbacbe3.js",
-    "static/js/2.5908e6ce.chunk.js": "/portfolio/static/js/2.5908e6ce.chunk.js",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.fdf95ada10ac2ef7ce21ca69ec6a5d01.js": "/portfolio/precache-manifest.fdf95ada10ac2ef7ce21ca69ec6a5d01.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/js/2.5908e6ce.chunk.js.LICENSE": "/portfolio/static/js/2.5908e6ce.chunk.js.LICENSE"
+    "main.css": "/BPatti12/portfolio.git/static/css/main.ab738595.chunk.css",
+    "main.js": "/BPatti12/portfolio.git/static/js/main.8dd717bd.chunk.js",
+    "runtime-main.js": "/BPatti12/portfolio.git/static/js/runtime-main.5281d2ba.js",
+    "static/js/2.5c6409ef.chunk.js": "/BPatti12/portfolio.git/static/js/2.5c6409ef.chunk.js",
+    "index.html": "/BPatti12/portfolio.git/index.html",
+    "precache-manifest.d3414fd40413357b54fa7d83aec5e27d.js": "/BPatti12/portfolio.git/precache-manifest.d3414fd40413357b54fa7d83aec5e27d.js",
+    "service-worker.js": "/BPatti12/portfolio.git/service-worker.js",
+    "static/js/2.5c6409ef.chunk.js.LICENSE.txt": "/BPatti12/portfolio.git/static/js/2.5c6409ef.chunk.js.LICENSE.txt",
+    "static/media/app.scss": "/BPatti12/portfolio.git/static/media/CircularStd-MediumItalic.7095d23a.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.3bbacbe3.js",
-    "static/js/2.5908e6ce.chunk.js",
-    "static/css/main.58a3d2bd.chunk.css",
-    "static/js/main.566463fe.chunk.js"
+    "static/js/runtime-main.5281d2ba.js",
+    "static/js/2.5c6409ef.chunk.js",
+    "static/css/main.ab738595.chunk.css",
+    "static/js/main.8dd717bd.chunk.js"
   ]
 }

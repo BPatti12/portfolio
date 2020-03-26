@@ -1,0 +1,105 @@
+@font-face {
+    font-family: "fab";
+    src: url("/fonts/fab.otf");
+}
+
+@font-face {
+    font-family: "far";
+    src: url("/fonts/far.otf");
+}
+
+@font-face {
+    font-family: "fas";
+    src: url("/fonts/fas.otf");
+}
+
+:root {
+    /* COLORS */
+    --primary: #ffffff;
+    --secondary: #f1f1f1;
+    --primary-text: #171717;
+    --secondary-text: #777777;
+    --highlight: #0096fb;
+    --twitter: #1da1f2;
+    --dribbble: #ea4c89;
+    --discord: #7289da;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+.primary {
+    background-color: var(--primary);
+}
+
+.secondary {
+    background-color: var(--secondary);
+}
+
+.primary-t {
+    color: var(--primary-text);
+}
+
+.secondary-t {
+    color: var(--secondary-text);
+}
+
+.highlight {
+    background-color: var(--highlight);
+}
+
+.highlight-t {
+    color: var(--highlight);
+}
+
+.dribbble {
+    color: var(--dribbble);
+}
+
+.twitter {
+    color: var(--twitter);
+}
+
+.discord {
+    color: var(--discord);
+}
+
+.book {
+    font-weight: 400;
+}
+
+.medium {
+    font-weight: 500;
+}
+
+.bold {
+    font-weight: 600;
+}
+
+.black {
+    font-weight: 800;
+}
+
+#devicelimit {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 99999999;
+    padding: 10px;
+    display: none;
+    text-align: center;
+    background-color: var(--primary);
+}
+
+@media only screen and (max-width: 300px), (max-height: 400px) {
+    #devicelimit {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
