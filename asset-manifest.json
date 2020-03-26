@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/BPatti12/portfolio.git/static/css/main.ab738595.chunk.css",
-    "main.js": "/BPatti12/portfolio.git/static/js/main.8dd717bd.chunk.js",
-    "runtime-main.js": "/BPatti12/portfolio.git/static/js/runtime-main.5281d2ba.js",
-    "static/js/2.5c6409ef.chunk.js": "/BPatti12/portfolio.git/static/js/2.5c6409ef.chunk.js",
-    "index.html": "/BPatti12/portfolio.git/index.html",
-    "precache-manifest.d3414fd40413357b54fa7d83aec5e27d.js": "/BPatti12/portfolio.git/precache-manifest.d3414fd40413357b54fa7d83aec5e27d.js",
-    "service-worker.js": "/BPatti12/portfolio.git/service-worker.js",
-    "static/js/2.5c6409ef.chunk.js.LICENSE.txt": "/BPatti12/portfolio.git/static/js/2.5c6409ef.chunk.js.LICENSE.txt",
-    "static/media/app.scss": "/BPatti12/portfolio.git/static/media/CircularStd-MediumItalic.7095d23a.ttf"
+    "main.css": "/portfolio/static/css/main.95727938.chunk.css",
+    "main.js": "/portfolio/static/js/main.350b1aeb.chunk.js",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.70e42f8b.js",
+    "static/js/2.5c6409ef.chunk.js": "/portfolio/static/js/2.5c6409ef.chunk.js",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.5063eba2e091412885ad2433deee9efc.js": "/portfolio/precache-manifest.5063eba2e091412885ad2433deee9efc.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/js/2.5c6409ef.chunk.js.LICENSE.txt": "/portfolio/static/js/2.5c6409ef.chunk.js.LICENSE.txt",
+    "static/media/app.scss": "/portfolio/static/media/CircularStd-MediumItalic.7095d23a.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.5281d2ba.js",
+    "static/js/runtime-main.70e42f8b.js",
     "static/js/2.5c6409ef.chunk.js",
-    "static/css/main.ab738595.chunk.css",
-    "static/js/main.8dd717bd.chunk.js"
+    "static/css/main.95727938.chunk.css",
+    "static/js/main.350b1aeb.chunk.js"
   ]
 }
