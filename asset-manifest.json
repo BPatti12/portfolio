@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.95727938.chunk.css",
-    "main.js": "/portfolio/static/js/main.c09ec77b.chunk.js",
+    "main.js": "/portfolio/static/js/main.8bfd3b27.chunk.js",
     "runtime-main.js": "/portfolio/static/js/runtime-main.70e42f8b.js",
     "static/js/2.5c6409ef.chunk.js": "/portfolio/static/js/2.5c6409ef.chunk.js",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.871e9ec935bbb1c03fd5a9b9213afc96.js": "/portfolio/precache-manifest.871e9ec935bbb1c03fd5a9b9213afc96.js",
+    "precache-manifest.e086f99ad7d934e1d0dc99c17badd892.js": "/portfolio/precache-manifest.e086f99ad7d934e1d0dc99c17badd892.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/js/2.5c6409ef.chunk.js.LICENSE.txt": "/portfolio/static/js/2.5c6409ef.chunk.js.LICENSE.txt",
     "static/media/app.scss": "/portfolio/static/media/CircularStd-MediumItalic.7095d23a.ttf"
@@ -14,6 +14,6 @@
     "static/js/runtime-main.70e42f8b.js",
     "static/js/2.5c6409ef.chunk.js",
     "static/css/main.95727938.chunk.css",
-    "static/js/main.c09ec77b.chunk.js"
+    "static/js/main.8bfd3b27.chunk.js"
   ]
 }
