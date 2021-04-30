@@ -1,16 +1,16 @@
 @font-face {
     font-family: "fab";
-    src: url("/portfolio/fonts/fab.otf");
+    src: url("/old-portfolio/fonts/fab.otf");
 }
 
 @font-face {
     font-family: "far";
-    src: url("/portfolio/fonts/far.otf");
+    src: url("/old-portfolio/fonts/far.otf");
 }
 
 @font-face {
     font-family: "fas";
-    src: url("/portfolio/fonts/fas.otf");
+    src: url("/old-portfolio/fonts/fas.otf");
 }
 
 :root {
